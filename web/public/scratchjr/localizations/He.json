@@ -334,7 +334,7 @@
     "BLOCK_DESC_ON_TAP": "START ON TAP {CHARACTER_NAME}",
     "BLOCK_DESC_ON_BUMP": "START ON BUMP {CHARACTER_NAME}",
     "BLOCK_DESC_MESSAGE_COLOR_ORANGE": "כתום",
-    "BLOCK_DESC_ON_MESSAGE": " {COLOR} כאשר מתקבל מסר",
+    "BLOCK_DESC_ON_MESSAGE": " כאשר מתקבל מסר  {COLOR}",
     "BLOCK_DESC_SEND_MESSAGE": " {COLOR} שלח מסר בצבע",
     "BLOCK_DESC_MOVE_RIGHT": "תנועה ימינה",
     "BLOCK_DESC_MOVE_LEFT": "תנועה שמאלה",
