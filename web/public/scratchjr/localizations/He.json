@@ -72,7 +72,7 @@
     "BLOCKS_SET_SPEED_DESCRIPTION": "Changes the rate at which certain blocks are run.",
     "BLOCKS_REPEAT": "חזור",
     "BLOCKS_REPEAT_DESCRIPTION": "Runs the blocks inside a specified number of times.",
-    "BLOCKS_END_BLOCKS": לבנת סיום",
+    "BLOCKS_END_BLOCKS": "לבנת סיום",
     "BLOCKS_END": "סוף",
     "BLOCKS_END_DESCRIPTION": "Indicates the end of the script (but does not affect the script in any way).",
     "BLOCKS_REPEAT_FOREVER": "Repeat Forever",
