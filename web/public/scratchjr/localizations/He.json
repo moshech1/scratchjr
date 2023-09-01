@@ -330,7 +330,7 @@
     "BACKGROUND_Arctic.svg": "Arctic",
     "BACKGROUND_Space.svg": "Space",
     "BACKGROUND_MoonBkg.svg": "Moon",
-    "BLOCK_DESC_GREEN_FLAG": "START ON GREEN FLAG",
+    "BLOCK_DESC_GREEN_FLAG": "התחל בדגל ירוק",
     "BLOCK_DESC_ON_TAP": "START ON TAP {CHARACTER_NAME}",
     "BLOCK_DESC_ON_BUMP": "START ON BUMP {CHARACTER_NAME}",
     "BLOCK_DESC_MESSAGE_COLOR_ORANGE": "כתום",
