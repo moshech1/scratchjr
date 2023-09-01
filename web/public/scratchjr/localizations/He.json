@@ -331,7 +331,7 @@
     "BACKGROUND_Space.svg": "Space",
     "BACKGROUND_MoonBkg.svg": "Moon",
     "BLOCK_DESC_GREEN_FLAG": "התחל בדגל ירוק",
-    "BLOCK_DESC_ON_TAP": "  התחל בנגיעה בדמות {CHARACTER_NAME} עם עכבר או אצבע",
+    "BLOCK_DESC_ON_TAP": "עם עכבר או אצבע {CHARACTER_NAME} התחל בנגיעה בדמות",
     "BLOCK_DESC_ON_BUMP": "{CHARACTER_NAME} התחל במפגש עם דמות ",
     "BLOCK_DESC_MESSAGE_COLOR_ORANGE": "כתום",
     "BLOCK_DESC_ON_MESSAGE": " כאשר מתקבל מסר  {COLOR}",
