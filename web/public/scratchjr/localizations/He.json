@@ -331,7 +331,7 @@
     "BACKGROUND_Space.svg": "Space",
     "BACKGROUND_MoonBkg.svg": "Moon",
     "BLOCK_DESC_GREEN_FLAG": "התחל בדגל ירוק",
-    "BLOCK_DESC_ON_TAP": "START ON TAP {CHARACTER_NAME}",
+    "BLOCK_DESC_ON_TAP": "הצחל בנגיעה בדמות {CHARACTER_NAME}",
     "BLOCK_DESC_ON_BUMP": "START ON BUMP {CHARACTER_NAME}",
     "BLOCK_DESC_MESSAGE_COLOR_ORANGE": "כתום",
     "BLOCK_DESC_ON_MESSAGE": " כאשר מתקבל מסר  {COLOR}",
