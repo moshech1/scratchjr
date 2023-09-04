@@ -97,7 +97,7 @@
     "INTERFACE_GUIDE_BLOCKS_CATEGORIES": "{N, number} | קטגוריות הלבנים",
     "INTERFACE_GUIDE_CHARACTERS": "{N, number} | דמויות",
     "INTERFACE_GUIDE_SAVE_DESCRIPTION": ".שמור את הפרויקט הנוכחי וצא לדף הבית",
-    "INTERFACE_GUIDE_STAGE_DESCRIPTION": "This is where the action takes place in the project. To delete a character, press and hold it.",
+    "INTERFACE_GUIDE_STAGE_DESCRIPTION": "כאן מתבצעות הפעולות בפרויקט. כדי למחוק דמות, לחץ והחזק אותה",
     "INTERFACE_GUIDE_PRESENTATION_MODE_DESCRIPTION": "Expand the stage to the full screen.",
     "INTERFACE_GUIDE_GRID_DESCRIPTION": "Toggle on (and off) the x-y coordinate grid.",
     "INTERFACE_GUIDE_CHANGE_BG_DESCRIPTION": "Select or create a background image for the stage.",
