@@ -111,9 +111,7 @@
     "INTERFACE_GUIDE_PROGRAMMING_AREA_DESCRIPTION": "This is where you connect programming blocks to create scripts, telling the character what to do.",
     "INTERFACE_GUIDE_BLOCKS_PALETTE_DESCRIPTION": ".זהו התפריט של הלבנים לתכנות. גררו לבנה לאזור התכנות ואז הקישו עליה, לראות מה היא עושה",
     "INTERFACE_GUIDE_BLOCKS_CATEGORIES_DESCRIPTION": ".כאן תוכלו לבחור קטגוריה של בלוקים לתכנות: הפעלת בלוקים (צהוב), תנועה (כחול), מראה (סגול), צלילים (ירוק), שליטה (כתום), בלוקים בסיום (אדום)",
-    "INTERFACE_GUIDE_CHARACTERS_DESCRIPTION": "בחרו בין הדמויות בפרויקט שלכם - או הקישו על סימן הפלוס כדי להוסיף דמות חדשה. כאשר דמות  נבחרת, אתם יכולים לערוך את התסריטים שלה, להקיש על שמה כדי לשנות אותו, או להקיש על מכחול הצבע כדי לערוך את הדמות. למחיקת דמות, לחצו עליה וכשתתנדנד סיגרו באיקס.. 
-
-להעתקת דמות לדף אחר, גרור אותה לתמונה הממוזערת של הדף (משמאל)..",
+    "INTERFACE_GUIDE_CHARACTERS_DESCRIPTION": "בחרו בין הדמויות בפרויקט שלכם - או הקישו על סימן הפלוס כדי להוסיף דמות חדשה. כאשר דמות  נבחרת, אתם יכולים לערוך את התסריטים שלה, להקיש על שמה כדי לשנות אותו, או להקיש על מכחול הצבע כדי לערוך את הדמות. למחיקת דמות, לחצו עליה וכשתתנדנד סיגרו באיקס.. להעתקת דמות לדף אחר, גרור אותה לתמונה הממוזערת של הדף (משמאל)..",
     "PAINT_GUIDE_UNDO": "{N, number} | Undo",
     "PAINT_GUIDE_REDO": "{N, number} | Redo",
     "PAINT_GUIDE_SHAPE": "{N, number} | Shape",
