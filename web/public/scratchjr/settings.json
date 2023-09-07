@@ -17,8 +17,8 @@
     "categoryStopColor": "#D62222",
     "paletteBlockShadowOpacity": 0.8,
     "autoSaveInterval": 30000,
-    "defaultLocale": "zh-cn",
-    "defaultLocaleShort": "zh-cn",
+    "defaultLocale": "He",
+    "defaultLocaleShort": "He",
     "supportedLocales": {
         "Català": "ca",
         "Cymraeg": "cy",
