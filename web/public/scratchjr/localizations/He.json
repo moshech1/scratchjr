@@ -69,7 +69,7 @@
     "BLOCKS_STOP": "עצור",
     "BLOCKS_STOP_DESCRIPTION": ".עצירת את כל התסריטים של הדמויות",
     "BLOCKS_SET_SPEED": "קבע מהירות",
-    "BLOCKS_SET_SPEED_DESCRIPTION": ".משנה את קצב הפעלת לבנים מסוימים",
+    "BLOCKS_SET_SPEED_DESCRIPTION": ".שינוי המהירות של התסריטים",
     "BLOCKS_REPEAT": "חזור",
     "BLOCKS_REPEAT_DESCRIPTION": ".הפעלת הלבנים בתוך מספר מוגדר של פעמים",
     "BLOCKS_END_BLOCKS": "לבנת סיום",
