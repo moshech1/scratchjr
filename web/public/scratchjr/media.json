@@ -79,7 +79,7 @@
     	{"md5":"Whale.svg","width":752,"height":406,"ext":"svg","name":"Whale","order":"characters,03 animals","tags":["characters","03 animals"]},
     	{"md5":"Penguin.svg","width":176,"height":243,"ext":"svg","name":"Penguin","order":"characters,03 animals","tags":["characters","03 animals"]},
     	{"md5":"PolarBear.svg","width":481,"height":278,"ext":"svg","name":"Polar Bear","order":"characters,03 animals","tags":["characters","03 animals"]},
-      {"md5":"cat1.svg","width":122,"height":132,"ext":"svg","name":"newcat","order":"characters,03 animals","tags":["characters","03 animals"]},
+      {"md5":"cat1.svg","width":115,"height":123,"ext":"svg","name":"newcat","order":"characters,03 animals","tags":["characters","03 animals"]},
         {"md5":"Girl1.svg","width":133,"height":318,"ext":"svg","name":"Child","order":"characters,01 family","tags":["characters","05 faces"]},
         {"md5":"Girl2.svg","width":122,"height":298,"ext":"svg","name":"Child","order":"characters,01 family","tags":["characters","01 family"]},
         {"md5":"Girl3.svg","width":145,"height":298,"ext":"svg","name":"Child","order":"characters,01 family","tags":["characters","05 faces"]},
